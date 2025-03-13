@@ -2,7 +2,3 @@
 
 GET {{StreamingIssueRepro_HostAddress}}/weatherforecast/
 Accept: application/json
-
-###
-GET {{StreamingIssueRepro_HostAddress}}/weatherforecast-direct/
-Accept: application/json
